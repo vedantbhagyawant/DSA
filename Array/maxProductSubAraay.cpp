@@ -20,7 +20,7 @@ int maxProductSubArray(vector <int> &nums){
 int main(){
 
     vector <int> nums = {1, 2, -3, 0, -4, -5};
-    cout << "The max subproduct is " << maxProductSubArray(nums);
+    cout << "The max subproduct is s" << maxProductSubArray(nums);
 
 
 
