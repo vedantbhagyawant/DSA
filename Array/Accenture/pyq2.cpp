@@ -33,7 +33,7 @@ int main(){
     int size = sizeof(arr)/ sizeof(arr[0]);
 
     int output = oddeven(arr,size);
-    cout<< "The adding of the second largest and second smallest element is "<< output <<endl;
+    cout<< "The adding of the second largest and second smallest element is "<< output;
 
 
 
